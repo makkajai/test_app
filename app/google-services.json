@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "218005422675",
+    "firebase_url": "https://myfirstapplication-80c49.firebaseio.com",
+    "project_id": "myfirstapplication-80c49",
+    "storage_bucket": "myfirstapplication-80c49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218005422675:android:604297472db30011",
+        "android_client_info": {
+          "package_name": "com.clevertap.myfirstapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218005422675-m4qov08lighrj4l2b110uj0jk58felcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clevertap.myfirstapplication",
+            "certificate_hash": "c95bb23a4fc2dd4eb31bfe4337c7c9a974286853"
+          }
+        },
+        {
+          "client_id": "218005422675-1hfjcar8q89ohqes9u5ti8dpb2po7874.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxaLzNJzEpgfPfzKS_bLRFWLyzlAGEC6I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218005422675-1hfjcar8q89ohqes9u5ti8dpb2po7874.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
