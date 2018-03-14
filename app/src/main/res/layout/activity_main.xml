@@ -5,16 +5,6 @@
     android:layout_height="match_parent">
 
 
-
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:text="Update user profile"
-        android:id="@+id/update_user_profile_button"
-        android:textAllCaps="false"/>
-
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

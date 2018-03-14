@@ -61,10 +61,10 @@
 
         <meta-data
             android:name="CLEVERTAP_ACCOUNT_ID"
-            android:value="TEST-Z46-R55-7W5Z"/>
+            android:value="TEST-KK4-WK5-WW5Z"/>
         <meta-data
             android:name="CLEVERTAP_TOKEN"
-            android:value="TEST-552-641"/>
+            android:value="TEST-530-433"/>
 
 
         <!--<meta-data-->
